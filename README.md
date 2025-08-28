@@ -1,2 +1,1 @@
-# HR_Dashboard
-HR dashboard using Power BI
+# HR Dashboard via Power BI
